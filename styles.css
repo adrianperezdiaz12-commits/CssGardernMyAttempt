@@ -1,0 +1,72 @@
+html {
+	margin: 10;
+	padding: 10;
+	}
+
+body { 
+	font: 85% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #000000; 
+	background: url('damaged-photograph-adrianperez.pdf') no-repeat bottom right; 
+	margin: 20px; 
+	padding: 50px;
+	}
+
+body {
+    background-image: url("damaged-photograph-adrianperez-1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(159, 100, 86);
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(159, 100, 86);
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 50px;
+    word-spacing: 130px;
+    margin-bottom: 40px;
+}
+
+p {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+li {
+    color: white;
+}
+
+h1 {
+    font-size: 36px;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+h3 {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 35px;
+}
+
+a {
+    color: #90caf9;
+}
